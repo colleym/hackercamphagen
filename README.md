@@ -10,4 +10,4 @@ Das Skript zum Abrufen der Daten vom MQTT-Broker liegt in [`mqtt.py`](mqtt.py).
 # App zur Visualisierung:
 [CO2 Ampel App](https://flutlab.io/sandbox/891c3163-a440-458c-b413-ce80328ddc54)
 
-und im Unterordner [`flutter`](tree/main/flutter)
+und im Unterordner [`flutter`](flutter)
