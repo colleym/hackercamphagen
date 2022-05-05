@@ -1,6 +1,6 @@
 # Hacker Camp Hagen
 
-Das Skript für die CO2-Ampel befindet sich in [`co2ampel-arduino.txt`](co2ampel-arduino.txt). Eine Anleitung zur Einrichtung der Arduino IDE befindet sich in [`co2ampel-arduino-anleitung.pdf`](co2ampel-arduino-anleitung.pdf).
+Für die Anleitung und weitere Informationen bitte beim [Technikzentrum](https://www.technikfoerderung.de/kontakt) oder den Mitwirkenden (s.u.) melden.
 
 Das Skript zum Abrufen der Daten vom MQTT-Broker liegt in [`mqtt.py`](mqtt.py).
 # Mitwirkende
